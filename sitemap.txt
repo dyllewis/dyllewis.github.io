@@ -1,2 +1,4 @@
+http://example.com/2024/09/30/test2141/
+http://example.com/2024/09/30/test/
 http://example.com/2024/09/08/hello-world/
 http://example.com/
