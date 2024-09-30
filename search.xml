@@ -28,6 +28,10 @@
   <entry>
     <title>test2141</title>
     <url>/2024/09/30/test2141/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>ePress，一个以 Markdown 为中心的静态网站生成器。官网为：<a href="https://vuepress.vuejs.org/">https://vuepress.vuejs.org</a> 。</p>
+<p>诞生的初衷是为了支持Vue 的文档需求，熟悉vue 框架的开发者首选。它可以生成一个单页面应用（SPA）。使用体验就好像手机上的app。而且对 SEO 也非常友好。</p>
+<p>官网有详细的帮助文档，支持中英文语言选择，方便学习和查阅。</p>
+<p>官网上的插件和主题有限，不过没有关系。我帮大家在github 上找到很多社区爱好者开发的插件和主题。非常丰富，大胆放心食用。</p>
+]]></content>
   </entry>
 </search>
